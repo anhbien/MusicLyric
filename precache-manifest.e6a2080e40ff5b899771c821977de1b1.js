@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f27dae21bdf1baeaeb19ee0d9f59c274",
+    "revision": "b809e2c540ef3bfaeb6d0cd167d56ba5",
     "url": "/MusicLyric/index.html"
   },
   {
-    "revision": "55e4f8a05eaa2617cc40",
+    "revision": "be9c33ea88f2710fe354",
     "url": "/MusicLyric/static/css/main.36497136.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MusicLyric/static/js/2.585ab26e.chunk.js"
   },
   {
-    "revision": "55e4f8a05eaa2617cc40",
-    "url": "/MusicLyric/static/js/main.ac972938.chunk.js"
+    "revision": "be9c33ea88f2710fe354",
+    "url": "/MusicLyric/static/js/main.201f4a24.chunk.js"
   },
   {
     "revision": "c321ee7c0683aaa1cab2",
